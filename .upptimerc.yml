@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: 泠泫凝的异次元空间
     url: https://lxnchan.cn
+  - name: 115Wiki
+    url: https://115.anavi.cn
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,11 +16,11 @@ status-website:
   cname: status.lxnchan.cn
   # baseUrl: /your-repo-name
   logoUrl: https://gh-proxy.arlxn.top/https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 泠泫凝 的服务状态
+  introTitle: "此处展现的服务状态仅供参考。"
+  introMessage: 如有问题请发邮件至admin@arlxn.top
   navbar:
-    - title: Status
+    - title: 服务状态
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
