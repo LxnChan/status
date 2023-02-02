@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 117,
+    "timeDay": 135,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.28%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.28%",
     "time": 1421,
-    "timeDay": 1436,
+    "timeDay": 1489,
     "timeWeek": 1421,
     "timeMonth": 1421,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-02": 26
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://115.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2249,
-    "timeDay": 2249,
-    "timeWeek": 2249,
-    "timeMonth": 2249,
-    "timeYear": 2249,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 2222,
+    "timeDay": 2309,
+    "timeWeek": 2222,
+    "timeMonth": 2222,
+    "timeYear": 2222,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-02": 26
     }
   }
 ]
