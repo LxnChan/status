@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 94,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {
-      "2023-02-01": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1421,
+    "timeDay": 1421,
+    "timeWeek": 1421,
+    "timeMonth": 1421,
+    "timeYear": 1421,
+    "dailyMinutesDown": {}
   },
   {
     "name": "115Wiki",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 2169,
-    "timeDay": 2169,
-    "timeWeek": 2169,
-    "timeMonth": 2169,
-    "timeYear": 2169,
-    "dailyMinutesDown": {
-      "2023-02-01": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2249,
+    "timeDay": 2249,
+    "timeWeek": 2249,
+    "timeMonth": 2249,
+    "timeYear": 2249,
+    "dailyMinutesDown": {}
   }
 ]
