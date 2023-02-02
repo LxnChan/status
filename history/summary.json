@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 108,
+    "timeDay": 117,
     "timeWeek": 108,
     "timeMonth": 108,
     "timeYear": 108,
@@ -29,18 +29,20 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1421,
-    "timeDay": 1421,
+    "timeDay": 1436,
     "timeWeek": 1421,
     "timeMonth": 1421,
     "timeYear": 1421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   },
   {
     "name": "115Wiki",
     "url": "https://115.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 2249,
     "timeMonth": 2249,
     "timeYear": 2249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-02": 0
+    }
   }
 ]
