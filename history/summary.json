@@ -34,7 +34,6 @@
     "timeMonth": 1711,
     "timeYear": 1711,
     "dailyMinutesDown": {
-      "2023-02-03": 9,
       "2023-02-02": 46
     }
   },
@@ -62,18 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "97.88%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
+    "uptime": "98.21%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
     "time": 2665,
     "timeDay": 2873,
     "timeWeek": 2665,
     "timeMonth": 2665,
     "timeYear": 2665,
     "dailyMinutesDown": {
-      "2023-02-03": 9,
       "2023-02-02": 46
     }
   },
@@ -94,7 +92,6 @@
     "timeMonth": 1711,
     "timeYear": 1711,
     "dailyMinutesDown": {
-      "2023-02-03": 9,
       "2023-02-02": 46
     }
   },
