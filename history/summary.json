@@ -78,19 +78,19 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "down",
-    "uptime": "80.55%",
-    "uptimeDay": "80.55%",
-    "uptimeWeek": "80.55%",
-    "uptimeMonth": "80.55%",
-    "uptimeYear": "80.55%",
-    "time": 1662,
-    "timeDay": 1662,
-    "timeWeek": 1662,
-    "timeMonth": 1662,
-    "timeYear": 1662,
+    "status": "up",
+    "uptime": "78.43%",
+    "uptimeDay": "78.43%",
+    "uptimeWeek": "78.43%",
+    "uptimeMonth": "78.43%",
+    "uptimeYear": "78.43%",
+    "time": 1694,
+    "timeDay": 1694,
+    "timeWeek": 1694,
+    "timeMonth": 1694,
+    "timeYear": 1694,
     "dailyMinutesDown": {
-      "2023-02-03": 135
+      "2023-02-03": 154
     }
   },
   {
