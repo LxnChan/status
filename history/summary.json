@@ -71,18 +71,19 @@
     "url": "https://115.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
-    "status": "up",
-    "uptime": "94.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.33%",
+    "status": "down",
+    "uptime": "94.71%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "94.70%",
+    "uptimeYear": "94.71%",
     "time": 2506,
     "timeDay": 1829,
-    "timeWeek": 2499,
+    "timeWeek": 2509,
     "timeMonth": 2320,
     "timeYear": 2506,
     "dailyMinutesDown": {
+      "2023-07-12": 1,
       "2023-07-09": 17,
       "2023-07-08": 59,
       "2023-07-07": 16,
@@ -155,8 +156,7 @@
       "2023-02-13": 51,
       "2023-02-12": 40,
       "2023-02-09": 17,
-      "2023-02-08": 35,
-      "2023-02-06": 20
+      "2023-02-08": 35
     }
   },
   {
