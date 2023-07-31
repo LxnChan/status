@@ -28,8 +28,8 @@ status-website:
   navbar:
     - title: 服务状态
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 回到主站
+      href: https://lxnchan.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
