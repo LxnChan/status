@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 82,
-    "timeWeek": 97,
-    "timeMonth": 107,
+    "timeDay": 125,
+    "timeWeek": 100,
+    "timeMonth": 108,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2023-06-16": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.60%",
-    "time": 2610,
-    "timeDay": 1894,
-    "timeWeek": 1633,
-    "timeMonth": 1942,
-    "timeYear": 2610,
+    "time": 2607,
+    "timeDay": 1350,
+    "timeWeek": 1621,
+    "timeMonth": 1918,
+    "timeYear": 2607,
     "dailyMinutesDown": {
       "2023-09-06": 61,
       "2023-09-05": 17,
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1702,
-    "timeDay": 1738,
-    "timeWeek": 1495,
-    "timeMonth": 1874,
-    "timeYear": 1702,
+    "time": 1700,
+    "timeDay": 1282,
+    "timeWeek": 1510,
+    "timeMonth": 1867,
+    "timeYear": 1700,
     "dailyMinutesDown": {
       "2023-03-11": 107
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "79.89%",
+    "uptime": "79.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.89%",
+    "uptimeYear": "79.69%",
     "time": 2484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2484,
     "dailyMinutesDown": {
-      "2023-09-21": 555,
+      "2023-09-21": 1416,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -214,17 +214,16 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.11%",
     "time": 1944,
-    "timeDay": 1736,
-    "timeWeek": 2224,
-    "timeMonth": 2004,
+    "timeDay": 1760,
+    "timeWeek": 2262,
+    "timeMonth": 2005,
     "timeYear": 1944,
     "dailyMinutesDown": {
-      "2023-09-21": 14,
       "2023-09-19": 18,
       "2023-09-18": 44,
       "2023-09-16": 16,
@@ -299,7 +298,8 @@
       "2023-05-01": 17,
       "2023-04-30": 57,
       "2023-04-29": 36,
-      "2023-04-27": 23
+      "2023-04-27": 23,
+      "2023-04-23": 23
     }
   },
   {
@@ -307,17 +307,19 @@
     "url": "https://gravatar.arlxn.top",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 309,
-    "timeWeek": 282,
+    "timeDay": 268,
+    "timeWeek": 283,
     "timeMonth": 284,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   }
 ]
