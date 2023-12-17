@@ -84,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "up",
-    "uptime": "60.95%",
+    "uptime": "60.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
-    "uptimeMonth": "30.29%",
-    "uptimeYear": "60.95%",
+    "uptimeMonth": "30.55%",
+    "uptimeYear": "60.96%",
     "time": 2471,
     "timeDay": 1899,
     "timeWeek": 2235,
@@ -294,9 +294,9 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.30%",
@@ -306,6 +306,7 @@
     "timeMonth": 1786,
     "timeYear": 1929,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-12-14": 28,
       "2023-12-13": 16,
       "2023-12-10": 20,
@@ -385,8 +386,7 @@
       "2023-06-26": 109,
       "2023-06-23": 17,
       "2023-06-19": 90,
-      "2023-06-18": 27,
-      "2023-06-15": 19
+      "2023-06-18": 27
     }
   },
   {
