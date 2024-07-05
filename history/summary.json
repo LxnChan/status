@@ -52,11 +52,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "70.09%",
-    "uptimeWeek": "64.90%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "70.01%",
+    "uptimeWeek": "65.17%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 1865,
     "timeDay": 1798,
@@ -64,13 +64,13 @@
     "timeMonth": 1764,
     "timeYear": 1892,
     "dailyMinutesDown": {
-      "2024-07-05": 424,
+      "2024-07-05": 425,
       "2024-07-04": 569,
       "2024-07-03": 501,
       "2024-07-02": 499,
       "2024-07-01": 639,
       "2024-06-30": 381,
-      "2024-06-29": 530
+      "2024-06-29": 502
     }
   },
   {
@@ -83,14 +83,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.89%",
+    "uptimeYear": "19.88%",
     "time": 2395,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2413,
     "dailyMinutesDown": {
-      "2024-07-05": 1410,
+      "2024-07-05": 1427,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -429,15 +429,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "52.55%",
-    "uptimeWeek": "59.77%",
-    "uptimeMonth": "90.74%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "52.53%",
+    "uptimeWeek": "60.83%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "99.25%",
     "time": 1860,
-    "timeDay": 1425,
-    "timeWeek": 1363,
+    "timeDay": 1422,
+    "timeWeek": 1362,
     "timeMonth": 1361,
     "timeYear": 1862,
     "dailyMinutesDown": {
@@ -446,7 +446,7 @@
       "2024-07-03": 646,
       "2024-07-02": 753,
       "2024-07-01": 764,
-      "2024-06-30": 444
+      "2024-06-30": 337
     }
   },
   {
