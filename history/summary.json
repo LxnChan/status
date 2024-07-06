@@ -52,11 +52,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "70.02%",
-    "uptimeWeek": "65.43%",
-    "uptimeMonth": "91.68%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "69.95%",
+    "uptimeWeek": "65.42%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 1846,
     "timeDay": 1646,
@@ -64,14 +64,14 @@
     "timeMonth": 1757,
     "timeYear": 1884,
     "dailyMinutesDown": {
-      "2024-07-06": 298,
+      "2024-07-06": 299,
       "2024-07-05": 438,
       "2024-07-04": 569,
       "2024-07-03": 501,
       "2024-07-02": 499,
       "2024-07-01": 639,
       "2024-06-30": 381,
-      "2024-06-29": 325
+      "2024-06-29": 305
     }
   },
   {
@@ -84,14 +84,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.68%",
+    "uptimeYear": "19.67%",
     "time": 2395,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2405,
     "dailyMinutesDown": {
-      "2024-07-06": 1098,
+      "2024-07-06": 1112,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -430,15 +430,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "52.09%",
-    "uptimeWeek": "60.17%",
-    "uptimeMonth": "90.83%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "52.72%",
+    "uptimeWeek": "60.63%",
+    "uptimeMonth": "90.94%",
     "uptimeYear": "99.24%",
-    "time": 1848,
+    "time": 1849,
     "timeDay": 1319,
-    "timeWeek": 1364,
+    "timeWeek": 1367,
     "timeMonth": 1359,
     "timeYear": 1852,
     "dailyMinutesDown": {
@@ -447,7 +447,7 @@
       "2024-07-04": 773,
       "2024-07-03": 646,
       "2024-07-02": 753,
-      "2024-07-01": 662
+      "2024-07-01": 615
     }
   },
   {
