@@ -52,11 +52,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "70.56%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "70.48%",
     "uptimeWeek": "65.00%",
-    "uptimeMonth": "91.46%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "99.29%",
     "time": 1840,
     "timeDay": 1742,
@@ -64,7 +64,7 @@
     "timeMonth": 1753,
     "timeYear": 1868,
     "dailyMinutesDown": {
-      "2024-07-10": 152,
+      "2024-07-10": 153,
       "2024-07-09": 478,
       "2024-07-08": 677,
       "2024-07-07": 433,
@@ -72,7 +72,7 @@
       "2024-07-05": 438,
       "2024-07-04": 569,
       "2024-07-03": 501,
-      "2024-07-02": 82
+      "2024-07-02": 61
     }
   },
   {
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "42.06%",
+    "uptime": "42.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2024-07-10": 409,
+      "2024-07-10": 417,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -433,15 +433,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "60.92%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "57.96%",
+    "uptimeWeek": "62.08%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "99.27%",
     "time": 1818,
-    "timeDay": 1323,
-    "timeWeek": 1371,
+    "timeDay": 1330,
+    "timeWeek": 1370,
     "timeMonth": 1360,
     "timeYear": 1820,
     "dailyMinutesDown": {
@@ -451,8 +451,7 @@
       "2024-07-07": 468,
       "2024-07-06": 636,
       "2024-07-05": 690,
-      "2024-07-04": 773,
-      "2024-07-03": 11
+      "2024-07-04": 667
     }
   },
   {
