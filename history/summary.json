@@ -54,10 +54,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "64.58%",
-    "uptimeWeek": "65.08%",
-    "uptimeMonth": "91.49%",
+    "uptime": "99.50%",
+    "uptimeDay": "66.61%",
+    "uptimeWeek": "65.78%",
+    "uptimeMonth": "91.46%",
     "uptimeYear": "99.29%",
     "time": 1836,
     "timeDay": 1813,
@@ -65,14 +65,14 @@
     "timeMonth": 1760,
     "timeYear": 1868,
     "dailyMinutesDown": {
-      "2024-07-10": 510,
+      "2024-07-10": 498,
       "2024-07-09": 478,
       "2024-07-08": 677,
       "2024-07-07": 433,
       "2024-07-06": 415,
       "2024-07-05": 438,
       "2024-07-04": 569,
-      "2024-07-03": 210
+      "2024-07-03": 238
     }
   },
   {
@@ -81,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "42.00%",
+    "uptime": "41.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.53%",
+    "uptimeYear": "18.52%",
     "time": 2396,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2024-07-10": 1437,
+      "2024-07-11": 56,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -424,8 +425,7 @@
       "2023-07-18": 16,
       "2023-07-16": 16,
       "2023-07-15": 18,
-      "2023-07-13": 16,
-      "2023-07-12": 34
+      "2023-07-13": 16
     }
   },
   {
@@ -435,9 +435,9 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "53.77%",
-    "uptimeWeek": "61.09%",
-    "uptimeMonth": "91.05%",
+    "uptimeDay": "55.70%",
+    "uptimeWeek": "60.71%",
+    "uptimeMonth": "90.96%",
     "uptimeYear": "99.25%",
     "time": 1814,
     "timeDay": 1304,
@@ -445,13 +445,13 @@
     "timeMonth": 1360,
     "timeYear": 1813,
     "dailyMinutesDown": {
-      "2024-07-10": 664,
+      "2024-07-10": 653,
       "2024-07-09": 599,
       "2024-07-08": 581,
       "2024-07-07": 468,
       "2024-07-06": 636,
       "2024-07-05": 690,
-      "2024-07-04": 283
+      "2024-07-04": 333
     }
   },
   {
