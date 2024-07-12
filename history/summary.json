@@ -26,9 +26,9 @@
     "slug": "baidu",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.81%",
     "time": 2321,
     "timeDay": 2247,
@@ -36,7 +36,7 @@
     "timeMonth": 2280,
     "timeYear": 2071,
     "dailyMinutesDown": {
-      "2024-07-12": 53,
+      "2024-07-12": 63,
       "2024-07-11": 93,
       "2024-07-10": 218,
       "2023-09-06": 61,
@@ -55,11 +55,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "68.60%",
-    "uptimeWeek": "66.43%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "69.20%",
+    "uptimeWeek": "66.42%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 1844,
     "timeDay": 1840,
@@ -67,7 +67,7 @@
     "timeMonth": 1763,
     "timeYear": 1866,
     "dailyMinutesDown": {
-      "2024-07-12": 103,
+      "2024-07-12": 104,
       "2024-07-11": 429,
       "2024-07-10": 498,
       "2024-07-09": 478,
@@ -75,7 +75,7 @@
       "2024-07-07": 433,
       "2024-07-06": 415,
       "2024-07-05": 438,
-      "2024-07-04": 116
+      "2024-07-04": 82
     }
   },
   {
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 2403,
     "dailyMinutesDown": {
-      "2024-07-12": 271,
+      "2024-07-12": 281,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
@@ -436,12 +436,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "55.13%",
-    "uptimeWeek": "61.09%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "55.79%",
+    "uptimeWeek": "61.29%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "99.26%",
     "time": 1805,
     "timeDay": 1433,
     "timeWeek": 1357,
@@ -455,7 +455,7 @@
       "2024-07-08": 581,
       "2024-07-07": 468,
       "2024-07-06": 636,
-      "2024-07-05": 262
+      "2024-07-05": 241
     }
   },
   {
