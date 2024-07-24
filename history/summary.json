@@ -57,8 +57,8 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "67.64%",
-    "uptimeWeek": "67.16%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "67.75%",
     "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
     "time": 1822,
@@ -87,14 +87,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.00%",
+    "uptimeYear": "14.99%",
     "time": 2407,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2434,
     "dailyMinutesDown": {
-      "2024-07-23": 1435,
+      "2024-07-24": 57,
+      "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -431,8 +432,7 @@
       "2023-07-30": 37,
       "2023-07-28": 53,
       "2023-07-27": 17,
-      "2023-07-26": 19,
-      "2023-07-25": 30
+      "2023-07-26": 19
     }
   },
   {
@@ -442,23 +442,23 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "60.37%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "62.72%",
+    "uptimeWeek": "60.02%",
+    "uptimeMonth": "90.80%",
+    "uptimeYear": "99.23%",
     "time": 1730,
     "timeDay": 1363,
-    "timeWeek": 1371,
+    "timeWeek": 1370,
     "timeMonth": 1364,
     "timeYear": 1730,
     "dailyMinutesDown": {
-      "2024-07-23": 598,
+      "2024-07-23": 592,
       "2024-07-22": 659,
       "2024-07-21": 574,
       "2024-07-20": 700,
       "2024-07-19": 642,
       "2024-07-18": 676,
-      "2024-07-17": 145
+      "2024-07-17": 186
     }
   },
   {
