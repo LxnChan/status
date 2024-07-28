@@ -55,25 +55,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "77.95%",
-    "uptimeWeek": "69.66%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.58%",
+    "uptimeDay": "78.81%",
+    "uptimeWeek": "69.79%",
+    "uptimeMonth": "92.60%",
+    "uptimeYear": "99.38%",
     "time": 1823,
     "timeDay": 1792,
     "timeWeek": 1806,
     "timeMonth": 1778,
     "timeYear": 1843,
     "dailyMinutesDown": {
-      "2024-07-28": 193,
+      "2024-07-28": 181,
       "2024-07-27": 373,
       "2024-07-26": 497,
       "2024-07-25": 469,
       "2024-07-24": 467,
       "2024-07-23": 463,
       "2024-07-22": 419,
-      "2024-07-21": 321
+      "2024-07-21": 374
     }
   },
   {
@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "40.64%",
+    "uptime": "40.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 2468,
     "dailyMinutesDown": {
-      "2024-07-28": 911,
+      "2024-07-28": 925,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -440,15 +440,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "61.31%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "58.44%",
+    "uptimeWeek": "61.84%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "99.27%",
     "time": 1709,
-    "timeDay": 1379,
-    "timeWeek": 1392,
+    "timeDay": 1374,
+    "timeWeek": 1393,
     "timeMonth": 1373,
     "timeYear": 1710,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
       "2024-07-25": 752,
       "2024-07-24": 573,
       "2024-07-23": 592,
-      "2024-07-22": 359
+      "2024-07-22": 305
     }
   },
   {
