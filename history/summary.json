@@ -53,11 +53,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "77.68%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "77.60%",
+    "uptimeWeek": "70.65%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1829,
     "timeDay": 1829,
@@ -65,6 +65,7 @@
     "timeMonth": 1780,
     "timeYear": 1843,
     "dailyMinutesDown": {
+      "2024-07-29": 1,
       "2024-07-28": 322,
       "2024-07-27": 373,
       "2024-07-26": 497,
@@ -72,7 +73,7 @@
       "2024-07-24": 467,
       "2024-07-23": 463,
       "2024-07-22": 419,
-      "2024-07-21": 219
+      "2024-07-21": 197
     }
   },
   {
@@ -85,14 +86,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.64%",
+    "uptimeYear": "13.63%",
     "time": 2417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2458,
     "dailyMinutesDown": {
-      "2024-07-29": 58,
+      "2024-07-29": 138,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -439,25 +440,26 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "64.43%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "91.44%",
+    "uptimeDay": "64.88%",
+    "uptimeWeek": "63.04%",
+    "uptimeMonth": "91.49%",
     "uptimeYear": "99.29%",
     "time": 1706,
-    "timeDay": 1383,
+    "timeDay": 1380,
     "timeWeek": 1393,
     "timeMonth": 1374,
     "timeYear": 1707,
     "dailyMinutesDown": {
+      "2024-07-29": 0,
       "2024-07-28": 570,
       "2024-07-27": 569,
       "2024-07-26": 668,
       "2024-07-25": 752,
       "2024-07-24": 573,
       "2024-07-23": 592,
-      "2024-07-22": 25
+      "2024-07-22": 1
     }
   },
   {
