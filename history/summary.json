@@ -53,19 +53,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "74.89%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "92.76%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "74.81%",
+    "uptimeWeek": "70.64%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1830,
     "timeDay": 1813,
-    "timeWeek": 1806,
+    "timeWeek": 1807,
     "timeMonth": 1780,
     "timeYear": 1843,
     "dailyMinutesDown": {
-      "2024-07-29": 87,
+      "2024-07-29": 88,
       "2024-07-28": 322,
       "2024-07-27": 373,
       "2024-07-26": 497,
@@ -73,7 +73,7 @@
       "2024-07-24": 467,
       "2024-07-23": 463,
       "2024-07-22": 419,
-      "2024-07-21": 76
+      "2024-07-21": 49
     }
   },
   {
@@ -86,14 +86,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.57%",
+    "uptimeYear": "13.56%",
     "time": 2417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2024-07-29": 452,
+      "2024-07-29": 460,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -440,15 +440,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "66.09%",
-    "uptimeWeek": "63.37%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "66.63%",
+    "uptimeWeek": "63.52%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 1704,
     "timeDay": 1352,
-    "timeWeek": 1389,
+    "timeWeek": 1390,
     "timeMonth": 1373,
     "timeYear": 1705,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
       "2024-07-26": 668,
       "2024-07-25": 752,
       "2024-07-24": 573,
-      "2024-07-23": 465
+      "2024-07-23": 450
     }
   },
   {
