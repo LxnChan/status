@@ -13,7 +13,7 @@
     "time": 103,
     "timeDay": 150,
     "timeWeek": 123,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -33,7 +33,7 @@
     "time": 2318,
     "timeDay": 1443,
     "timeWeek": 2230,
-    "timeMonth": 2198,
+    "timeMonth": 2205,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2024-07-12": 120,
@@ -43,8 +43,7 @@
       "2023-09-05": 17,
       "2023-08-17": 208,
       "2023-08-16": 61,
-      "2023-08-02": 41,
-      "2023-08-01": 50
+      "2023-08-02": 41
     }
   },
   {
@@ -52,19 +51,20 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "71.64%",
-    "uptimeMonth": "92.86%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "71.68%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "99.41%",
     "time": 1831,
     "timeDay": 1787,
     "timeWeek": 1821,
-    "timeMonth": 1783,
+    "timeMonth": 1782,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2024-07-30": 392,
+      "2024-07-31": 1,
+      "2024-07-30": 387,
       "2024-07-29": 341,
       "2024-07-28": 322,
       "2024-07-27": 373,
@@ -83,7 +83,7 @@
     "uptime": "40.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "13.11%",
     "time": 2439,
     "timeDay": 0,
@@ -91,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 2474,
     "dailyMinutesDown": {
-      "2024-07-30": 1436,
+      "2024-07-31": 31,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -429,8 +430,7 @@
       "2023-08-05": 22,
       "2023-08-04": 15,
       "2023-08-03": 55,
-      "2023-08-02": 44,
-      "2023-08-01": 30
+      "2023-08-02": 44
     }
   },
   {
@@ -439,10 +439,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "74.93%",
-    "uptimeWeek": "63.21%",
-    "uptimeMonth": "91.53%",
+    "uptime": "99.52%",
+    "uptimeDay": "74.81%",
+    "uptimeWeek": "62.87%",
+    "uptimeMonth": "91.46%",
     "uptimeYear": "99.29%",
     "time": 1695,
     "timeDay": 1324,
@@ -450,7 +450,8 @@
     "timeMonth": 1374,
     "timeYear": 1696,
     "dailyMinutesDown": {
-      "2024-07-30": 358,
+      "2024-07-31": 31,
+      "2024-07-30": 362,
       "2024-07-29": 480,
       "2024-07-28": 570,
       "2024-07-27": 569,
