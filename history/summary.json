@@ -51,12 +51,12 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "72.95%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "72.93%",
     "uptimeWeek": "71.10%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "99.40%",
     "time": 1831,
     "timeDay": 1788,
     "timeWeek": 1822,
@@ -71,7 +71,7 @@
       "2024-07-26": 497,
       "2024-07-25": 469,
       "2024-07-24": 467,
-      "2024-07-23": 267
+      "2024-07-23": 238
     }
   },
   {
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 2474,
     "dailyMinutesDown": {
-      "2024-07-31": 89,
+      "2024-07-31": 119,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
