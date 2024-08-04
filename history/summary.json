@@ -50,19 +50,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "60.95%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "60.88%",
+    "uptimeWeek": "68.64%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
-    "time": 1826,
+    "time": 1827,
     "timeDay": 1773,
     "timeWeek": 1799,
     "timeMonth": 1789,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2024-08-04": 199,
+      "2024-08-04": 200,
       "2024-08-03": 442,
       "2024-08-02": 663,
       "2024-08-01": 409,
@@ -70,7 +70,7 @@
       "2024-07-30": 387,
       "2024-07-29": 341,
       "2024-07-28": 322,
-      "2024-07-27": 61
+      "2024-07-27": 35
     }
   },
   {
@@ -79,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "40.15%",
+    "uptime": "40.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 2517,
     "dailyMinutesDown": {
-      "2024-08-04": 376,
+      "2024-08-04": 394,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
@@ -437,12 +437,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "40.94%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "40.92%",
+    "uptimeWeek": "63.85%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "99.31%",
     "time": 1678,
     "timeDay": 1417,
     "timeWeek": 1393,
@@ -455,7 +455,7 @@
       "2024-08-01": 428,
       "2024-07-31": 566,
       "2024-07-30": 362,
-      "2024-07-29": 453
+      "2024-07-29": 437
     }
   },
   {
