@@ -50,11 +50,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "72.13%",
+    "uptimeDay": "73.87%",
     "uptimeWeek": "67.64%",
-    "uptimeMonth": "92.14%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 1827,
     "timeDay": 1763,
@@ -62,6 +62,7 @@
     "timeMonth": 1806,
     "timeYear": 1845,
     "dailyMinutesDown": {
+      "2024-08-06": 1,
       "2024-08-05": 458,
       "2024-08-04": 517,
       "2024-08-03": 442,
@@ -69,7 +70,7 @@
       "2024-08-01": 409,
       "2024-07-31": 449,
       "2024-07-30": 387,
-      "2024-07-29": 124
+      "2024-07-29": 82
     }
   },
   {
@@ -78,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "40.02%",
+    "uptime": "40.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2024-08-06": 57,
+      "2024-08-06": 82,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -436,11 +437,11 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "52.63%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "54.39%",
+    "uptimeWeek": "63.45%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 1673,
     "timeDay": 1448,
@@ -448,12 +449,13 @@
     "timeMonth": 1384,
     "timeYear": 1670,
     "dailyMinutesDown": {
+      "2024-08-06": 0,
       "2024-08-05": 740,
       "2024-08-04": 704,
       "2024-08-03": 794,
       "2024-08-02": 780,
       "2024-08-01": 428,
-      "2024-07-31": 257
+      "2024-07-31": 239
     }
   },
   {
