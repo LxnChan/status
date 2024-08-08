@@ -6,20 +6,20 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.42%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 104,
     "timeDay": 98,
     "timeWeek": 112,
     "timeMonth": 114,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 819,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   },
   {
@@ -28,21 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.54%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.42%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 2096,
     "timeDay": 2041,
     "timeWeek": 2161,
     "timeMonth": 2201,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 819,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   },
   {
@@ -50,22 +50,22 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.42%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 1832,
     "timeDay": 1789,
     "timeWeek": 1846,
     "timeMonth": 1809,
     "timeYear": 1842,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 819,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   },
   {
@@ -74,21 +74,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.54%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.42%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 2474,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2619,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 819,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   },
   {
@@ -96,22 +96,22 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.41%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 1664,
     "timeDay": 1424,
-    "timeWeek": 1420,
-    "timeMonth": 1385,
+    "timeWeek": 1419,
+    "timeMonth": 1386,
     "timeYear": 1662,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 819,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   },
   {
@@ -120,21 +120,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "62.87%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.54%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "63.41%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 282,
     "timeDay": 411,
     "timeWeek": 283,
     "timeMonth": 271,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-08-08": 818,
+      "2024-08-08": 821,
       "2024-08-07": 1358,
       "2024-08-06": 922,
-      "2024-08-05": 645
+      "2024-08-05": 588
     }
   }
 ]
