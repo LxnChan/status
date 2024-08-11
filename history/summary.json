@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 92,
+    "timeDay": 88,
     "timeWeek": 103,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.85%",
     "time": 2082,
-    "timeDay": 2193,
-    "timeWeek": 2186,
+    "timeDay": 1796,
+    "timeWeek": 2173,
     "timeMonth": 2151,
     "timeYear": 2113,
     "dailyMinutesDown": {
@@ -50,26 +50,26 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "79.92%",
-    "uptimeWeek": "69.81%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "80.05%",
+    "uptimeWeek": "69.83%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 1830,
     "timeDay": 1765,
     "timeWeek": 1769,
     "timeMonth": 1810,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2024-08-11": 268,
+      "2024-08-11": 269,
       "2024-08-10": 392,
       "2024-08-09": 411,
       "2024-08-08": 542,
       "2024-08-07": 603,
       "2024-08-06": 346,
       "2024-08-05": 458,
-      "2024-08-04": 335
+      "2024-08-04": 318
     }
   },
   {
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 2570,
     "dailyMinutesDown": {
-      "2024-08-11": 1391,
+      "2024-08-11": 1394,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
@@ -437,15 +437,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "67.76%",
-    "uptimeWeek": "61.81%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "67.84%",
+    "uptimeWeek": "62.09%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "99.27%",
     "time": 1653,
     "timeDay": 1497,
-    "timeWeek": 1415,
+    "timeWeek": 1414,
     "timeMonth": 1394,
     "timeYear": 1646,
     "dailyMinutesDown": {
@@ -455,7 +455,7 @@
       "2024-08-08": 712,
       "2024-08-07": 755,
       "2024-08-06": 576,
-      "2024-08-05": 402
+      "2024-08-05": 373
     }
   },
   {
@@ -470,8 +470,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 235,
-    "timeWeek": 282,
+    "timeDay": 207,
+    "timeWeek": 286,
     "timeMonth": 270,
     "timeYear": 276,
     "dailyMinutesDown": {}
