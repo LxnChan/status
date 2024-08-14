@@ -52,24 +52,25 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "76.37%",
-    "uptimeWeek": "71.26%",
-    "uptimeMonth": "92.60%",
+    "uptimeDay": "76.73%",
+    "uptimeWeek": "71.90%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 1831,
-    "timeDay": 1793,
-    "timeWeek": 1783,
+    "timeDay": 1800,
+    "timeWeek": 1782,
     "timeMonth": 1809,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2024-08-13": 341,
+      "2024-08-13": 336,
       "2024-08-12": 293,
       "2024-08-11": 315,
       "2024-08-10": 392,
       "2024-08-09": 411,
       "2024-08-08": 542,
       "2024-08-07": 603,
-      "2024-08-06": 346
+      "2024-08-06": 346,
+      "2024-08-05": 16
     }
   },
   {
@@ -78,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "39.45%",
+    "uptime": "39.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.37%",
+    "uptimeYear": "9.36%",
     "time": 2617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-13": 1422,
+      "2024-08-14": 57,
+      "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
@@ -428,8 +430,7 @@
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
-      "2023-08-16": 1440,
-      "2023-08-15": 1440
+      "2023-08-16": 1440
     }
   },
   {
@@ -439,23 +440,23 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "68.16%",
-    "uptimeWeek": "63.57%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "68.51%",
+    "uptimeWeek": "63.22%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "99.29%",
     "time": 1645,
-    "timeDay": 1378,
+    "timeDay": 1381,
     "timeWeek": 1415,
     "timeMonth": 1394,
     "timeYear": 1634,
     "dailyMinutesDown": {
-      "2024-08-13": 460,
+      "2024-08-13": 455,
       "2024-08-12": 486,
       "2024-08-11": 478,
       "2024-08-10": 513,
       "2024-08-09": 460,
       "2024-08-08": 712,
-      "2024-08-07": 563
+      "2024-08-07": 604
     }
   },
   {
