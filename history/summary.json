@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 105,
-    "timeWeek": 88,
+    "timeDay": 0,
+    "timeWeek": 86,
     "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -31,18 +31,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 2084,
-    "timeDay": 2318,
-    "timeWeek": 2105,
+    "timeDay": 0,
+    "timeWeek": 2115,
     "timeMonth": 2157,
-    "timeYear": 2114,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2024-07-12": 120,
       "2024-07-11": 93,
       "2024-07-10": 218,
       "2023-09-06": 61,
       "2023-09-05": 17,
-      "2023-08-17": 208,
-      "2023-08-16": 61
+      "2023-08-17": 208
     }
   },
   {
@@ -52,24 +51,24 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "75.66%",
-    "uptimeWeek": "73.66%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "77.29%",
+    "uptimeWeek": "74.05%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
     "time": 1826,
-    "timeDay": 1710,
-    "timeWeek": 1764,
+    "timeDay": 1706,
+    "timeWeek": 1768,
     "timeMonth": 1806,
     "timeYear": 1834,
     "dailyMinutesDown": {
-      "2024-08-14": 334,
+      "2024-08-14": 328,
       "2024-08-13": 336,
       "2024-08-12": 293,
       "2024-08-11": 315,
       "2024-08-10": 392,
       "2024-08-09": 411,
       "2024-08-08": 542,
-      "2024-08-07": 514
+      "2024-08-07": 540
     }
   },
   {
@@ -78,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "39.38%",
+    "uptime": "39.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-14": 1367,
+      "2024-08-15": 55,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -428,8 +428,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   },
   {
@@ -439,23 +438,23 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "68.05%",
-    "uptimeWeek": "65.87%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "69.59%",
+    "uptimeWeek": "65.44%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "99.34%",
     "time": 1643,
-    "timeDay": 1401,
-    "timeWeek": 1417,
-    "timeMonth": 1397,
+    "timeDay": 1424,
+    "timeWeek": 1416,
+    "timeMonth": 1398,
     "timeYear": 1631,
     "dailyMinutesDown": {
-      "2024-08-14": 441,
+      "2024-08-14": 436,
       "2024-08-13": 455,
       "2024-08-12": 486,
       "2024-08-11": 478,
       "2024-08-10": 513,
       "2024-08-09": 460,
-      "2024-08-08": 604
+      "2024-08-08": 652
     }
   },
   {
@@ -470,8 +469,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 262,
-    "timeWeek": 280,
+    "timeDay": 0,
+    "timeWeek": 258,
     "timeMonth": 270,
     "timeYear": 275,
     "dailyMinutesDown": {}
