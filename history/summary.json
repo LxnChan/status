@@ -48,19 +48,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "72.58%",
-    "uptimeWeek": "74.43%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "73.75%",
+    "uptimeWeek": "74.60%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.46%",
     "time": 1820,
-    "timeDay": 1761,
-    "timeWeek": 1815,
-    "timeMonth": 1810,
+    "timeDay": 1756,
+    "timeWeek": 1814,
+    "timeMonth": 1811,
     "timeYear": 1832,
     "dailyMinutesDown": {
-      "2024-08-22": 361,
+      "2024-08-22": 363,
       "2024-08-21": 400,
       "2024-08-20": 321,
       "2024-08-19": 251,
@@ -68,7 +68,7 @@
       "2024-08-17": 267,
       "2024-08-16": 443,
       "2024-08-15": 240,
-      "2024-08-14": 195
+      "2024-08-14": 179
     }
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-22": 986,
+      "2024-08-22": 1066,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -436,17 +436,17 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "72.49%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "73.60%",
+    "uptimeWeek": "68.40%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "99.39%",
     "time": 1619,
-    "timeDay": 1404,
-    "timeWeek": 1419,
+    "timeDay": 1423,
+    "timeWeek": 1418,
     "timeMonth": 1409,
-    "timeYear": 1606,
+    "timeYear": 1605,
     "dailyMinutesDown": {
       "2024-08-22": 343,
       "2024-08-21": 489,
@@ -455,7 +455,7 @@
       "2024-08-18": 535,
       "2024-08-17": 444,
       "2024-08-16": 456,
-      "2024-08-15": 222
+      "2024-08-15": 195
     }
   },
   {
