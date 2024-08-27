@@ -48,19 +48,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "73.92%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "74.37%",
+    "uptimeWeek": "74.21%",
+    "uptimeMonth": "93.03%",
+    "uptimeYear": "99.42%",
     "time": 1825,
-    "timeDay": 1814,
+    "timeDay": 1829,
     "timeWeek": 1835,
     "timeMonth": 1815,
     "timeYear": 1831,
     "dailyMinutesDown": {
-      "2024-08-27": 112,
+      "2024-08-27": 113,
       "2024-08-26": 376,
       "2024-08-25": 362,
       "2024-08-24": 372,
@@ -69,7 +69,7 @@
       "2024-08-21": 400,
       "2024-08-20": 321,
       "2024-08-19": 251,
-      "2024-08-18": 232
+      "2024-08-18": 167
     }
   },
   {
@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "38.55%",
+    "uptime": "38.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-27": 113,
+      "2024-08-27": 179,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
@@ -437,15 +437,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "79.68%",
-    "uptimeWeek": "67.96%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "68.01%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "99.32%",
     "time": 1599,
-    "timeDay": 1355,
-    "timeWeek": 1382,
+    "timeDay": 1359,
+    "timeWeek": 1381,
     "timeMonth": 1407,
     "timeYear": 1593,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
       "2024-08-21": 489,
       "2024-08-20": 494,
       "2024-08-19": 267,
-      "2024-08-18": 64
+      "2024-08-18": 35
     }
   },
   {
