@@ -48,16 +48,16 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "77.65%",
+    "uptimeDay": "77.63%",
     "uptimeWeek": "76.66%",
-    "uptimeMonth": "92.76%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1827,
     "timeDay": 1810,
     "timeWeek": 1816,
-    "timeMonth": 1816,
+    "timeMonth": 1815,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2024-08-31": 165,
@@ -69,7 +69,7 @@
       "2024-08-25": 362,
       "2024-08-24": 372,
       "2024-08-23": 285,
-      "2024-08-22": 332
+      "2024-08-22": 308
     }
   },
   {
@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "38.25%",
+    "uptime": "38.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-31": 840,
+      "2024-08-31": 855,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
