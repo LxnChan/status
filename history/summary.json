@@ -48,19 +48,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "67.14%",
-    "uptimeWeek": "75.58%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "67.06%",
+    "uptimeWeek": "75.57%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.38%",
     "time": 1824,
     "timeDay": 1715,
-    "timeWeek": 1800,
+    "timeWeek": 1798,
     "timeMonth": 1809,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2024-09-01": 298,
+      "2024-09-01": 299,
       "2024-08-31": 360,
       "2024-08-30": 401,
       "2024-08-29": 144,
@@ -69,7 +69,7 @@
       "2024-08-26": 376,
       "2024-08-25": 362,
       "2024-08-24": 372,
-      "2024-08-23": 252
+      "2024-08-23": 235
     }
   },
   {
@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "38.18%",
+    "uptime": "38.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-01": 927,
+      "2024-09-01": 949,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -437,12 +437,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "63.84%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "63.81%",
     "uptimeWeek": "69.05%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "99.26%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "99.29%",
     "time": 1586,
     "timeDay": 1376,
     "timeWeek": 1364,
@@ -457,8 +457,7 @@
       "2024-08-27": 436,
       "2024-08-26": 332,
       "2024-08-25": 493,
-      "2024-08-24": 545,
-      "2024-08-23": 7
+      "2024-08-24": 365
     }
   },
   {
