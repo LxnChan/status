@@ -48,18 +48,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "74.95%",
-    "uptimeWeek": "76.33%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "74.89%",
+    "uptimeWeek": "76.96%",
+    "uptimeMonth": "92.77%",
+    "uptimeYear": "99.40%",
     "time": 1822,
-    "timeDay": 1794,
+    "timeDay": 1782,
     "timeWeek": 1816,
     "timeMonth": 1815,
     "timeYear": 1830,
     "dailyMinutesDown": {
+      "2024-09-01": 1,
       "2024-08-31": 360,
       "2024-08-30": 401,
       "2024-08-29": 144,
@@ -69,7 +70,7 @@
       "2024-08-25": 362,
       "2024-08-24": 372,
       "2024-08-23": 285,
-      "2024-08-22": 148
+      "2024-08-22": 133
     }
   },
   {
@@ -89,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-08-31": 1415,
+      "2024-09-01": 56,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -428,8 +430,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -437,19 +438,20 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "70.50%",
-    "uptimeWeek": "70.12%",
-    "uptimeMonth": "91.31%",
+    "uptimeDay": "70.92%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "99.28%",
     "time": 1583,
-    "timeDay": 1386,
-    "timeWeek": 1369,
+    "timeDay": 1383,
+    "timeWeek": 1367,
     "timeMonth": 1405,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2024-08-31": 425,
+      "2024-09-01": 0,
+      "2024-08-31": 418,
       "2024-08-30": 609,
       "2024-08-29": 270,
       "2024-08-28": 439,
