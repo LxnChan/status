@@ -47,11 +47,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "60.84%",
-    "uptimeWeek": "69.43%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "60.76%",
+    "uptimeWeek": "69.42%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 1823,
     "timeDay": 1727,
@@ -59,7 +59,7 @@
     "timeMonth": 1793,
     "timeYear": 1827,
     "dailyMinutesDown": {
-      "2024-09-04": 559,
+      "2024-09-04": 560,
       "2024-09-03": 671,
       "2024-09-02": 444,
       "2024-09-01": 500,
@@ -67,7 +67,7 @@
       "2024-08-30": 401,
       "2024-08-29": 144,
       "2024-08-28": 294,
-      "2024-08-27": 160
+      "2024-08-27": 132
     }
   },
   {
@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-04": 1393,
+      "2024-09-04": 1410,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -435,14 +435,14 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "43.72%",
-    "uptimeWeek": "59.68%",
-    "uptimeMonth": "90.72%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "43.84%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "99.23%",
     "time": 1575,
-    "timeDay": 1391,
+    "timeDay": 1393,
     "timeWeek": 1390,
     "timeMonth": 1404,
     "timeYear": 1565,
@@ -453,7 +453,7 @@
       "2024-09-01": 599,
       "2024-08-31": 418,
       "2024-08-30": 609,
-      "2024-08-29": 193
+      "2024-08-29": 177
     }
   },
   {
@@ -468,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 333,
-    "timeWeek": 329,
-    "timeMonth": 286,
+    "timeDay": 297,
+    "timeWeek": 327,
+    "timeMonth": 287,
     "timeYear": 276,
     "dailyMinutesDown": {}
   }
