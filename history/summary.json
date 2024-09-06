@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "65.25%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "76.23%",
+    "uptimeWeek": "65.73%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "99.30%",
     "time": 1821,
     "timeDay": 1796,
     "timeWeek": 1783,
     "timeMonth": 1795,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2024-09-06": 232,
+      "2024-09-06": 233,
       "2024-09-05": 502,
       "2024-09-04": 562,
       "2024-09-03": 671,
@@ -66,7 +66,7 @@
       "2024-09-01": 500,
       "2024-08-31": 360,
       "2024-08-30": 401,
-      "2024-08-29": 46
+      "2024-08-29": 3
     }
   },
   {
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "37.86%",
+    "uptime": "37.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-06": 745,
+      "2024-09-06": 794,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -434,12 +434,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "68.10%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "69.42%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "99.26%",
     "time": 1572,
     "timeDay": 1377,
     "timeWeek": 1404,
@@ -452,7 +452,7 @@
       "2024-09-03": 774,
       "2024-09-02": 669,
       "2024-09-01": 599,
-      "2024-08-31": 261
+      "2024-08-31": 207
     }
   },
   {
