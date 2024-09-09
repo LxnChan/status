@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "76.91%",
-    "uptimeWeek": "69.36%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "69.61%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 1825,
-    "timeDay": 1830,
+    "timeDay": 1816,
     "timeWeek": 1803,
     "timeMonth": 1801,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2024-09-09": 146,
+      "2024-09-09": 147,
       "2024-09-08": 268,
       "2024-09-07": 244,
       "2024-09-06": 377,
@@ -66,7 +66,7 @@
       "2024-09-04": 562,
       "2024-09-03": 671,
       "2024-09-02": 444,
-      "2024-09-01": 315
+      "2024-09-01": 299
     }
   },
   {
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "37.68%",
+    "uptime": "37.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-09": 435,
+      "2024-09-09": 476,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -434,16 +434,16 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "70.24%",
-    "uptimeWeek": "61.76%",
-    "uptimeMonth": "91.20%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "70.22%",
+    "uptimeWeek": "62.14%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "99.27%",
     "time": 1561,
-    "timeDay": 1504,
+    "timeDay": 1507,
     "timeWeek": 1407,
-    "timeMonth": 1405,
+    "timeMonth": 1404,
     "timeYear": 1554,
     "dailyMinutesDown": {
       "2024-09-09": 164,
@@ -453,7 +453,7 @@
       "2024-09-05": 574,
       "2024-09-04": 814,
       "2024-09-03": 774,
-      "2024-09-02": 276
+      "2024-09-02": 237
     }
   },
   {
