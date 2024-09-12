@@ -46,12 +46,12 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "78.97%",
-    "uptimeWeek": "78.75%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "78.95%",
+    "uptimeWeek": "78.76%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "99.38%",
     "time": 1825,
     "timeDay": 1804,
     "timeWeek": 1849,
@@ -67,7 +67,7 @@
       "2024-09-06": 377,
       "2024-09-05": 502,
       "2024-09-04": 562,
-      "2024-09-03": 257
+      "2024-09-03": 181
     }
   },
   {
@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-12": 744,
+      "2024-09-12": 775,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
