@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 103,
-    "timeDay": 75,
-    "timeWeek": 82,
-    "timeMonth": 92,
+    "timeDay": 89,
+    "timeWeek": 84,
+    "timeMonth": 91,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2083,
+    "time": 2085,
     "timeDay": 2725,
-    "timeWeek": 2455,
-    "timeMonth": 2246,
-    "timeYear": 2120,
+    "timeWeek": 2496,
+    "timeMonth": 2259,
+    "timeYear": 2125,
     "dailyMinutesDown": {
       "2024-07-12": 120,
       "2024-07-11": 93,
@@ -48,13 +48,13 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "80.98%",
+    "uptimeDay": "82.20%",
     "uptimeWeek": "78.29%",
     "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1823,
-    "timeDay": 1714,
-    "timeWeek": 1848,
+    "timeDay": 1700,
+    "timeWeek": 1845,
     "timeMonth": 1810,
     "timeYear": 1827,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-13": 1389,
+      "2024-09-13": 1415,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -435,15 +435,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "72.31%",
-    "uptimeWeek": "69.73%",
-    "uptimeMonth": "91.92%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "73.48%",
+    "uptimeWeek": "69.90%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 1552,
-    "timeDay": 1397,
-    "timeWeek": 1416,
+    "timeDay": 1402,
+    "timeWeek": 1418,
     "timeMonth": 1402,
     "timeYear": 1546,
     "dailyMinutesDown": {
@@ -455,7 +455,7 @@
       "2024-09-08": 474,
       "2024-09-07": 350,
       "2024-09-06": 427,
-      "2024-09-05": 78
+      "2024-09-05": 48
     }
   },
   {
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 301,
-    "timeWeek": 299,
-    "timeMonth": 289,
-    "timeYear": 275,
+    "timeDay": 357,
+    "timeWeek": 311,
+    "timeMonth": 293,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   }
 ]
