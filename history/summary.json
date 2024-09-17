@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "77.05%",
-    "uptimeWeek": "78.17%",
-    "uptimeMonth": "92.88%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "78.19%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "99.41%",
     "time": 1821,
-    "timeDay": 1809,
-    "timeWeek": 1829,
+    "timeDay": 1814,
+    "timeWeek": 1828,
     "timeMonth": 1811,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2024-09-17": 115,
+      "2024-09-17": 116,
       "2024-09-16": 343,
       "2024-09-15": 343,
       "2024-09-14": 333,
@@ -68,7 +68,7 @@
       "2024-09-10": 213,
       "2024-09-09": 500,
       "2024-09-08": 268,
-      "2024-09-07": 42
+      "2024-09-07": 11
     }
   },
   {
@@ -77,7 +77,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "37.18%",
+    "uptime": "37.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-17": 284,
+      "2024-09-17": 331,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -436,15 +436,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "73.64%",
-    "uptimeWeek": "69.83%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "74.86%",
+    "uptimeWeek": "69.92%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.34%",
     "time": 1546,
-    "timeDay": 1376,
-    "timeWeek": 1393,
+    "timeDay": 1378,
+    "timeWeek": 1391,
     "timeMonth": 1393,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -456,7 +456,7 @@
       "2024-09-12": 488,
       "2024-09-11": 378,
       "2024-09-10": 398,
-      "2024-09-09": 353
+      "2024-09-09": 299
     }
   },
   {
