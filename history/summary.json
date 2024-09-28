@@ -14,7 +14,7 @@
     "timeDay": 175,
     "timeWeek": 110,
     "timeMonth": 94,
-    "timeYear": 105,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 41
     }
@@ -46,27 +46,26 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "75.50%",
-    "uptimeWeek": "71.92%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "75.42%",
+    "uptimeWeek": "71.91%",
+    "uptimeMonth": "93.15%",
+    "uptimeYear": "99.43%",
     "time": 1820,
-    "timeDay": 1708,
-    "timeWeek": 1751,
+    "timeDay": 1701,
+    "timeWeek": 1750,
     "timeMonth": 1792,
     "timeYear": 1821,
     "dailyMinutesDown": {
-      "2024-09-28": 310,
+      "2024-09-28": 311,
       "2024-09-27": 359,
       "2024-09-26": 373,
       "2024-09-25": 444,
       "2024-09-24": 435,
       "2024-09-23": 398,
       "2024-09-22": 432,
-      "2024-09-21": 320,
-      "2024-09-20": 15
+      "2024-09-21": 252
     }
   },
   {
@@ -86,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-09-28": 1114,
+      "2024-09-28": 1169,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -434,15 +433,15 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "63.51%",
-    "uptimeWeek": "66.25%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "64.73%",
+    "uptimeWeek": "66.45%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
     "time": 1526,
-    "timeDay": 1300,
-    "timeWeek": 1370,
+    "timeDay": 1303,
+    "timeWeek": 1368,
     "timeMonth": 1392,
     "timeYear": 1511,
     "dailyMinutesDown": {
@@ -452,7 +451,7 @@
       "2024-09-25": 612,
       "2024-09-24": 617,
       "2024-09-23": 567,
-      "2024-09-22": 401
+      "2024-09-22": 381
     }
   },
   {
