@@ -46,11 +46,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "76.19%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "76.98%",
+    "uptimeWeek": "76.28%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 1811,
     "timeDay": 1667,
@@ -58,7 +58,7 @@
     "timeMonth": 1766,
     "timeYear": 1812,
     "dailyMinutesDown": {
-      "2024-10-07": 186,
+      "2024-10-07": 187,
       "2024-10-06": 302,
       "2024-10-05": 252,
       "2024-10-04": 292,
@@ -66,7 +66,7 @@
       "2024-10-02": 395,
       "2024-10-01": 322,
       "2024-09-30": 376,
-      "2024-09-29": 348
+      "2024-09-29": 331
     }
   },
   {
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "35.95%",
+    "uptime": "35.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-07": 755,
+      "2024-10-07": 786,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -434,26 +434,26 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "63.91%",
-    "uptimeWeek": "66.53%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "63.86%",
+    "uptimeWeek": "67.02%",
+    "uptimeMonth": "92.41%",
+    "uptimeYear": "99.37%",
     "time": 1504,
     "timeDay": 1357,
     "timeWeek": 1353,
     "timeMonth": 1378,
     "timeYear": 1499,
     "dailyMinutesDown": {
-      "2024-10-07": 267,
+      "2024-10-07": 268,
       "2024-10-06": 471,
       "2024-10-05": 356,
       "2024-10-04": 467,
       "2024-10-03": 578,
       "2024-10-02": 498,
       "2024-10-01": 543,
-      "2024-09-30": 192
+      "2024-09-30": 142
     }
   },
   {
