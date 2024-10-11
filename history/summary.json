@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "72.93%",
-    "uptimeWeek": "72.65%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "73.29%",
+    "uptimeWeek": "72.64%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 1807,
-    "timeDay": 1594,
+    "timeDay": 1607,
     "timeWeek": 1670,
     "timeMonth": 1740,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2024-10-11": 306,
+      "2024-10-11": 307,
       "2024-10-10": 370,
       "2024-10-09": 398,
       "2024-10-08": 498,
@@ -66,7 +66,7 @@
       "2024-10-06": 302,
       "2024-10-05": 252,
       "2024-10-04": 292,
-      "2024-10-03": 365
+      "2024-10-03": 349
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-11": 630,
+      "2024-10-11": 644,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -434,14 +434,14 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "56.87%",
-    "uptimeWeek": "64.50%",
-    "uptimeMonth": "91.83%",
+    "uptimeDay": "57.26%",
+    "uptimeWeek": "64.72%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 1498,
-    "timeDay": 1323,
+    "timeDay": 1334,
     "timeWeek": 1319,
     "timeMonth": 1365,
     "timeYear": 1493,
@@ -453,7 +453,7 @@
       "2024-10-07": 534,
       "2024-10-06": 471,
       "2024-10-05": 356,
-      "2024-10-04": 216
+      "2024-10-04": 194
     }
   },
   {
