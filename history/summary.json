@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "72.61%",
-    "uptimeWeek": "72.90%",
-    "uptimeMonth": "92.79%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "72.52%",
+    "uptimeWeek": "72.92%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
     "time": 1804,
     "timeDay": 1721,
     "timeWeek": 1684,
-    "timeMonth": 1738,
+    "timeMonth": 1737,
     "timeYear": 1808,
     "dailyMinutesDown": {
-      "2024-10-12": 179,
+      "2024-10-12": 180,
       "2024-10-11": 431,
       "2024-10-10": 370,
       "2024-10-09": 398,
@@ -66,8 +66,7 @@
       "2024-10-07": 419,
       "2024-10-06": 302,
       "2024-10-05": 252,
-      "2024-10-04": 292,
-      "2024-10-03": 20
+      "2024-10-04": 292
     }
   },
   {
@@ -76,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "35.67%",
+    "uptime": "35.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -87,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-12": 495,
+      "2024-10-12": 515,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -435,16 +434,16 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "64.28%",
-    "uptimeWeek": "63.95%",
-    "uptimeMonth": "91.70%",
+    "uptimeDay": "64.25%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
     "time": 1493,
     "timeDay": 1314,
     "timeWeek": 1315,
-    "timeMonth": 1363,
+    "timeMonth": 1362,
     "timeYear": 1491,
     "dailyMinutesDown": {
       "2024-10-12": 208,
@@ -454,7 +453,7 @@
       "2024-10-08": 425,
       "2024-10-07": 534,
       "2024-10-06": 471,
-      "2024-10-05": 203
+      "2024-10-05": 187
     }
   },
   {
