@@ -48,17 +48,17 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "69.27%",
-    "uptimeWeek": "71.76%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "70.48%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "92.60%",
+    "uptimeYear": "99.38%",
     "time": 1802,
-    "timeDay": 1615,
+    "timeDay": 1618,
     "timeWeek": 1672,
-    "timeMonth": 1724,
+    "timeMonth": 1723,
     "timeYear": 1804,
     "dailyMinutesDown": {
-      "2024-10-16": 330,
+      "2024-10-16": 324,
       "2024-10-15": 598,
       "2024-10-14": 303,
       "2024-10-13": 406,
@@ -66,7 +66,7 @@
       "2024-10-11": 431,
       "2024-10-10": 370,
       "2024-10-09": 398,
-      "2024-10-08": 4
+      "2024-10-08": 55
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-16": 1255,
+      "2024-10-16": 1287,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -434,26 +434,26 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "60.21%",
-    "uptimeWeek": "62.09%",
-    "uptimeMonth": "91.20%",
+    "uptimeDay": "60.89%",
+    "uptimeWeek": "62.27%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "99.27%",
     "time": 1487,
-    "timeDay": 1278,
+    "timeDay": 1290,
     "timeWeek": 1301,
     "timeMonth": 1349,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2024-10-16": 457,
+      "2024-10-16": 458,
       "2024-10-15": 646,
       "2024-10-14": 439,
       "2024-10-13": 578,
       "2024-10-12": 480,
       "2024-10-11": 547,
       "2024-10-10": 607,
-      "2024-10-09": 104
+      "2024-10-09": 70
     }
   },
   {
