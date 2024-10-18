@@ -48,14 +48,14 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "68.49%",
+    "uptimeDay": "72.98%",
     "uptimeWeek": "70.90%",
     "uptimeMonth": "92.86%",
     "uptimeYear": "99.41%",
     "time": 1802,
     "timeDay": 1657,
     "timeWeek": 1684,
-    "timeMonth": 1718,
+    "timeMonth": 1719,
     "timeYear": 1803,
     "dailyMinutesDown": {
       "2024-10-17": 452,
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-17": 1436,
+      "2024-10-18": 64,
+      "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -424,8 +425,7 @@
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
-      "2023-10-20": 1440,
-      "2023-10-19": 1440
+      "2023-10-20": 1440
     }
   },
   {
@@ -435,13 +435,13 @@
     "slug": "ender-chest",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "63.38%",
+    "uptimeDay": "72.88%",
+    "uptimeWeek": "63.88%",
     "uptimeMonth": "91.11%",
     "uptimeYear": "99.26%",
     "time": 1486,
     "timeDay": 1298,
-    "timeWeek": 1295,
+    "timeWeek": 1294,
     "timeMonth": 1345,
     "timeYear": 1483,
     "dailyMinutesDown": {
