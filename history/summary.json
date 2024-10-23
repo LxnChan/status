@@ -48,9 +48,9 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "74.42%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "75.10%",
+    "uptimeWeek": "74.38%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "99.41%",
     "time": 1805,
     "timeDay": 2828,
@@ -58,7 +58,7 @@
     "timeMonth": 1730,
     "timeYear": 1806,
     "dailyMinutesDown": {
-      "2024-10-23": 161,
+      "2024-10-23": 151,
       "2024-10-22": 369,
       "2024-10-21": 373,
       "2024-10-20": 395,
@@ -66,7 +66,7 @@
       "2024-10-18": 250,
       "2024-10-17": 452,
       "2024-10-16": 385,
-      "2024-10-15": 359
+      "2024-10-15": 390
     }
   },
   {
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "35.04%",
+    "uptime": "35.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-23": 684,
+      "2024-10-23": 756,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -434,26 +434,26 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "55.44%",
-    "uptimeWeek": "63.90%",
-    "uptimeMonth": "91.48%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "55.40%",
+    "uptimeWeek": "64.30%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "99.30%",
     "time": 1476,
     "timeDay": 1302,
-    "timeWeek": 1261,
+    "timeWeek": 1262,
     "timeMonth": 1315,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2024-10-23": 340,
+      "2024-10-23": 341,
       "2024-10-22": 585,
       "2024-10-21": 517,
       "2024-10-20": 606,
       "2024-10-19": 449,
       "2024-10-18": 277,
       "2024-10-17": 454,
-      "2024-10-16": 502
+      "2024-10-16": 469
     }
   },
   {
