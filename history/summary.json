@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "70.48%",
-    "uptimeWeek": "74.16%",
-    "uptimeMonth": "92.87%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "74.14%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 1805,
-    "timeDay": 2722,
-    "timeWeek": 1823,
+    "timeDay": 2762,
+    "timeWeek": 1824,
     "timeMonth": 1730,
     "timeYear": 1806,
     "dailyMinutesDown": {
-      "2024-10-23": 132,
+      "2024-10-23": 133,
       "2024-10-22": 369,
       "2024-10-21": 373,
       "2024-10-20": 395,
@@ -66,7 +66,7 @@
       "2024-10-18": 250,
       "2024-10-17": 452,
       "2024-10-16": 385,
-      "2024-10-15": 417
+      "2024-10-15": 390
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-10-23": 378,
+      "2024-10-23": 412,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -434,19 +434,19 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "51.81%",
-    "uptimeWeek": "64.55%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "53.27%",
+    "uptimeWeek": "64.54%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "99.29%",
     "time": 1476,
-    "timeDay": 1278,
+    "timeDay": 1279,
     "timeWeek": 1258,
-    "timeMonth": 1314,
+    "timeMonth": 1315,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2024-10-23": 275,
+      "2024-10-23": 276,
       "2024-10-22": 585,
       "2024-10-21": 517,
       "2024-10-20": 606,
@@ -454,7 +454,7 @@
       "2024-10-18": 277,
       "2024-10-17": 454,
       "2024-10-16": 544,
-      "2024-10-15": 96
+      "2024-10-15": 46
     }
   },
   {
