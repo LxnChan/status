@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "64.48%",
-    "uptimeWeek": "73.11%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "65.65%",
+    "uptimeWeek": "73.10%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "99.41%",
     "time": 1800,
-    "timeDay": 1638,
+    "timeDay": 1628,
     "timeWeek": 1724,
     "timeMonth": 1722,
     "timeYear": 1785,
     "dailyMinutesDown": {
-      "2024-11-01": 56,
+      "2024-11-01": 57,
       "2024-10-31": 501,
       "2024-10-30": 411,
       "2024-10-29": 374,
@@ -66,8 +66,7 @@
       "2024-10-27": 504,
       "2024-10-26": 248,
       "2024-10-25": 366,
-      "2024-10-24": 375,
-      "2024-10-23": 4
+      "2024-10-24": 327
     }
   },
   {
@@ -76,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "34.56%",
+    "uptime": "34.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-11-01": 315,
+      "2024-11-01": 350,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -435,14 +434,14 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "52.53%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "53.68%",
+    "uptimeWeek": "63.46%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 1462,
-    "timeDay": 1196,
+    "timeDay": 1186,
     "timeWeek": 1239,
     "timeMonth": 1283,
     "timeYear": 1449,
@@ -454,7 +453,7 @@
       "2024-10-28": 477,
       "2024-10-27": 614,
       "2024-10-26": 433,
-      "2024-10-25": 424
+      "2024-10-25": 404
     }
   },
   {
