@@ -13,7 +13,7 @@
     "time": 105,
     "timeDay": 99,
     "timeWeek": 91,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -33,8 +33,8 @@
     "time": 2126,
     "timeDay": 2518,
     "timeWeek": 2221,
-    "timeMonth": 2276,
-    "timeYear": 2161,
+    "timeMonth": 2264,
+    "timeYear": 2160,
     "dailyMinutesDown": {
       "2024-07-12": 120,
       "2024-07-11": 93,
@@ -48,24 +48,24 @@
     "slug": "official",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "71.39%",
-    "uptimeWeek": "67.79%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "68.00%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
     "time": 1793,
     "timeDay": 1603,
     "timeWeek": 1632,
     "timeMonth": 1710,
-    "timeYear": 1780,
+    "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-11-06": 406,
+      "2024-11-06": 401,
       "2024-11-05": 489,
       "2024-11-04": 540,
       "2024-11-03": 208,
       "2024-11-02": 610,
       "2024-11-01": 446,
       "2024-10-31": 501,
-      "2024-10-30": 156
+      "2024-10-30": 180
     }
   },
   {
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-11-06": 1377,
+      "2024-11-06": 1392,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -433,12 +433,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "54.09%",
-    "uptimeWeek": "61.70%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "55.12%",
+    "uptimeWeek": "62.57%",
+    "uptimeMonth": "91.39%",
+    "uptimeYear": "99.28%",
     "time": 1452,
     "timeDay": 1221,
     "timeWeek": 1215,
@@ -450,7 +450,7 @@
       "2024-11-04": 704,
       "2024-11-03": 590,
       "2024-11-02": 695,
-      "2024-11-01": 611
+      "2024-11-01": 522
     }
   },
   {
@@ -467,8 +467,8 @@
     "time": 279,
     "timeDay": 274,
     "timeWeek": 274,
-    "timeMonth": 271,
-    "timeYear": 275,
+    "timeMonth": 272,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   }
 ]
