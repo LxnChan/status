@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-11-10": 1213,
+      "2024-11-10": 1228,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -433,12 +433,12 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "74.07%",
-    "uptimeWeek": "64.48%",
-    "uptimeMonth": "91.83%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "74.04%",
+    "uptimeWeek": "64.87%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "99.33%",
     "time": 1445,
     "timeDay": 1301,
     "timeWeek": 1267,
@@ -451,7 +451,7 @@
       "2024-11-07": 470,
       "2024-11-06": 627,
       "2024-11-05": 632,
-      "2024-11-04": 530
+      "2024-11-04": 490
     }
   },
   {
