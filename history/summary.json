@@ -46,19 +46,19 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "65.88%",
-    "uptimeWeek": "73.14%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "65.80%",
+    "uptimeWeek": "73.22%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 1789,
-    "timeDay": 2341,
+    "timeDay": 2365,
     "timeWeek": 1746,
-    "timeMonth": 1726,
+    "timeMonth": 1727,
     "timeYear": 1775,
     "dailyMinutesDown": {
-      "2024-11-18": 492,
+      "2024-11-18": 493,
       "2024-11-17": 435,
       "2024-11-16": 305,
       "2024-11-15": 267,
@@ -66,7 +66,7 @@
       "2024-11-13": 376,
       "2024-11-12": 393,
       "2024-11-11": 231,
-      "2024-11-10": 186
+      "2024-11-10": 164
     }
   },
   {
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-11-18": 1431,
+      "2024-11-19": 0,
+      "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -425,8 +426,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -434,19 +434,20 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "51.89%",
-    "uptimeWeek": "63.80%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "52.24%",
+    "uptimeWeek": "63.95%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "99.30%",
     "time": 1430,
-    "timeDay": 1222,
+    "timeDay": 1232,
     "timeWeek": 1259,
     "timeMonth": 1250,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-11-18": 693,
+      "2024-11-19": 0,
+      "2024-11-18": 687,
       "2024-11-17": 509,
       "2024-11-16": 400,
       "2024-11-15": 485,
