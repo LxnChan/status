@@ -13,7 +13,7 @@
     "time": 105,
     "timeDay": 95,
     "timeWeek": 99,
-    "timeMonth": 108,
+    "timeMonth": 109,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2133,
-    "timeDay": 2607,
-    "timeWeek": 2371,
-    "timeMonth": 2217,
+    "time": 2134,
+    "timeDay": 2366,
+    "timeWeek": 2422,
+    "timeMonth": 2250,
     "timeYear": 2135,
     "dailyMinutesDown": {
       "2024-07-12": 120,
@@ -49,12 +49,12 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "63.22%",
-    "uptimeWeek": "69.17%",
+    "uptimeWeek": "69.23%",
     "uptimeMonth": "92.05%",
     "uptimeYear": "99.34%",
     "time": 1787,
-    "timeDay": 1697,
-    "timeWeek": 1751,
+    "timeDay": 1707,
+    "timeWeek": 1754,
     "timeMonth": 1725,
     "timeYear": 1774,
     "dailyMinutesDown": {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 2305,
     "dailyMinutesDown": {
-      "2024-11-20": 1390,
+      "2024-11-20": 1407,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -434,25 +434,25 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "55.77%",
-    "uptimeWeek": "63.17%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "55.75%",
+    "uptimeWeek": "63.59%",
+    "uptimeMonth": "91.62%",
+    "uptimeYear": "99.30%",
     "time": 1430,
-    "timeDay": 1748,
-    "timeWeek": 1303,
+    "timeDay": 1749,
+    "timeWeek": 1304,
     "timeMonth": 1267,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2024-11-20": 621,
+      "2024-11-20": 622,
       "2024-11-19": 637,
       "2024-11-18": 687,
       "2024-11-17": 509,
       "2024-11-16": 400,
       "2024-11-15": 485,
-      "2024-11-14": 378
+      "2024-11-14": 335
     }
   },
   {
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 295,
-    "timeWeek": 281,
-    "timeMonth": 271,
-    "timeYear": 273,
+    "timeDay": 360,
+    "timeWeek": 294,
+    "timeMonth": 277,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   }
 ]
