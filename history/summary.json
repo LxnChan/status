@@ -46,11 +46,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "61.18%",
-    "uptimeWeek": "73.05%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "61.10%",
+    "uptimeWeek": "73.21%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "99.33%",
     "time": 1781,
     "timeDay": 1606,
@@ -58,7 +58,7 @@
     "timeMonth": 1714,
     "timeYear": 1768,
     "dailyMinutesDown": {
-      "2024-12-11": 126,
+      "2024-12-11": 127,
       "2024-12-10": 516,
       "2024-12-09": 556,
       "2024-12-08": 497,
@@ -67,7 +67,7 @@
       "2024-12-05": 361,
       "2024-12-04": 498,
       "2024-12-03": 395,
-      "2024-12-02": 185
+      "2024-12-02": 161
     }
   },
   {
@@ -80,14 +80,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.51%",
+    "uptimeYear": "8.50%",
     "time": 2305,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2316,
+    "timeYear": 2318,
     "dailyMinutesDown": {
-      "2024-12-11": 405,
+      "2024-12-11": 422,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -437,11 +437,11 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "52.79%",
-    "uptimeWeek": "61.98%",
-    "uptimeMonth": "91.21%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "52.73%",
+    "uptimeWeek": "62.14%",
+    "uptimeMonth": "91.25%",
     "uptimeYear": "99.27%",
     "time": 1411,
     "timeDay": 1228,
@@ -449,14 +449,14 @@
     "timeMonth": 1274,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2024-12-11": 215,
+      "2024-12-11": 216,
       "2024-12-10": 621,
       "2024-12-09": 725,
       "2024-12-08": 600,
       "2024-12-07": 510,
       "2024-12-06": 390,
       "2024-12-05": 439,
-      "2024-12-04": 355
+      "2024-12-04": 335
     }
   },
   {
