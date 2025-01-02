@@ -46,11 +46,11 @@
     "url": "https://lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/lxnchan.cn.ico",
     "slug": "official",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "54.25%",
-    "uptimeWeek": "66.07%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "54.12%",
+    "uptimeWeek": "66.28%",
+    "uptimeMonth": "92.24%",
     "uptimeYear": "99.35%",
     "time": 1770,
     "timeDay": 1640,
@@ -58,13 +58,13 @@
     "timeMonth": 1681,
     "timeYear": 1759,
     "dailyMinutesDown": {
-      "2025-01-02": 246,
+      "2025-01-02": 248,
       "2025-01-01": 540,
       "2024-12-31": 474,
       "2024-12-30": 769,
       "2024-12-29": 448,
       "2024-12-28": 611,
-      "2024-12-27": 332
+      "2024-12-27": 309
     }
   },
   {
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "31.50%",
+    "uptime": "31.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 2417,
     "dailyMinutesDown": {
-      "2025-01-02": 453,
+      "2025-01-02": 463,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -451,11 +451,11 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "42.16%",
-    "uptimeWeek": "57.70%",
-    "uptimeMonth": "90.27%",
+    "uptimeDay": "42.77%",
+    "uptimeWeek": "58.01%",
+    "uptimeMonth": "90.34%",
     "uptimeYear": "99.19%",
     "time": 1393,
     "timeDay": 1225,
@@ -463,13 +463,13 @@
     "timeMonth": 1262,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2025-01-02": 295,
+      "2025-01-02": 296,
       "2025-01-01": 763,
       "2024-12-31": 767,
       "2024-12-30": 874,
       "2024-12-29": 709,
       "2024-12-28": 820,
-      "2024-12-27": 35
+      "2024-12-27": 4
     }
   },
   {
