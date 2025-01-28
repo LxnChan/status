@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 97,
-    "timeWeek": 412,
-    "timeMonth": 187,
+    "timeDay": 168,
+    "timeWeek": 423,
+    "timeMonth": 189,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 2190,
-    "timeDay": 1998,
-    "timeWeek": 2322,
-    "timeMonth": 2252,
-    "timeYear": 2183,
+    "timeDay": 2496,
+    "timeWeek": 2357,
+    "timeMonth": 2272,
+    "timeYear": 2184,
     "dailyMinutesDown": {
       "2024-07-12": 120,
       "2024-07-11": 93,
@@ -53,9 +53,9 @@
     "uptimeMonth": "92.51%",
     "uptimeYear": "99.38%",
     "time": 1763,
-    "timeDay": 1611,
-    "timeWeek": 1699,
-    "timeMonth": 1657,
+    "timeDay": 1907,
+    "timeWeek": 1743,
+    "timeMonth": 1652,
     "timeYear": 1752,
     "dailyMinutesDown": {
       "2025-01-16": 138,
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "30.42%",
+    "uptime": "30.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 64,
+      "2025-01-28": 63,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -448,8 +449,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -463,11 +463,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.11%",
     "uptimeYear": "99.26%",
-    "time": 1378,
-    "timeDay": 1177,
-    "timeWeek": 1276,
-    "timeMonth": 1230,
-    "timeYear": 1372,
+    "time": 1377,
+    "timeDay": 1465,
+    "timeWeek": 1309,
+    "timeMonth": 1227,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-01-16": 215,
       "2025-01-15": 639,
@@ -491,10 +491,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 296,
-    "timeWeek": 202,
-    "timeMonth": 157,
-    "timeYear": 262,
+    "timeDay": 56,
+    "timeWeek": 179,
+    "timeMonth": 156,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
