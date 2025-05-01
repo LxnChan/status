@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 72,
+    "timeDay": 86,
     "timeWeek": 94,
-    "timeMonth": 100,
+    "timeMonth": 93,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2024-05-01": 41
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Baidu（百度）",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2248,
-    "timeDay": 2704,
-    "timeWeek": 2428,
-    "timeMonth": 2513,
-    "timeYear": 2294,
+    "time": 2249,
+    "timeDay": 1813,
+    "timeWeek": 2297,
+    "timeMonth": 2461,
+    "timeYear": 2292,
     "dailyMinutesDown": {
       "2024-07-12": 120,
       "2024-07-11": 93,
@@ -53,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 1755,
-    "timeDay": 1636,
-    "timeWeek": 1609,
-    "timeMonth": 1675,
+    "timeDay": 1349,
+    "timeWeek": 1549,
+    "timeMonth": 1665,
     "timeYear": 1750,
     "dailyMinutesDown": {
       "2025-01-16": 138,
@@ -74,10 +72,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "26.97%",
+    "uptime": "26.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 2432,
     "timeDay": 0,
@@ -85,7 +83,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-30": 73,
+      "2025-05-01": 79,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -448,8 +447,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -464,9 +462,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 1359,
-    "timeDay": 1376,
-    "timeWeek": 1311,
-    "timeMonth": 1273,
+    "timeDay": 1397,
+    "timeWeek": 1321,
+    "timeMonth": 1279,
     "timeYear": 1330,
     "dailyMinutesDown": {
       "2025-01-16": 215,
@@ -491,10 +489,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 91,
-    "timeWeek": 189,
-    "timeMonth": 238,
-    "timeYear": 246,
+    "timeDay": 199,
+    "timeWeek": 176,
+    "timeMonth": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   }
 ]
