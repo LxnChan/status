@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/115.anavi.cn.ico",
     "slug": "115-wiki",
     "status": "down",
-    "uptime": "26.54%",
+    "uptime": "26.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 75,
+      "2025-05-13": 990,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -455,18 +455,19 @@
     "url": "https://enderchest.anavi.cn",
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 1358,
     "timeDay": 1258,
     "timeWeek": 1303,
     "timeMonth": 1320,
     "timeYear": 1330,
     "dailyMinutesDown": {
+      "2025-05-13": 1,
       "2025-01-16": 215,
       "2025-01-15": 639,
       "2025-01-14": 603,
@@ -474,7 +475,7 @@
       "2025-01-12": 544,
       "2025-01-11": 700,
       "2025-01-10": 506,
-      "2025-01-09": 165
+      "2025-01-09": 94
     }
   },
   {
