@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 204,
-    "timeWeek": 125,
-    "timeMonth": 106,
+    "timeDay": 159,
+    "timeWeek": 119,
+    "timeMonth": 105,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-06-15": 1
+      "2025-06-15": 15
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 435,
+      "2025-06-15": 449,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -465,7 +465,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/enderchest.anavi.cn.ico",
     "slug": "ender-chest",
     "status": "down",
-    "uptime": "96.22%",
+    "uptime": "96.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "36.81%",
     "uptimeMonth": "6.56%",
@@ -476,7 +476,7 @@
     "timeMonth": 1301,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2025-06-15": 435,
+      "2025-06-15": 449,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
