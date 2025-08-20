@@ -7,12 +7,12 @@ sites:
     url: https://www.google.com
   - name: Baidu（百度）
     url: https://www.baidu.com
-  - name: Official（泠泫凝的异次元空间-主页）
+  - name: 泠泫凝的异次元空间-blog主页
     url: https://lxnchan.cn
-  - name: 115Wiki
-    url: https://115.anavi.cn
-  - name: EnderChest（末影箱-云盘）
-    url: https://enderchest.anavi.cn
+#  - name: 115Wiki
+#    url: https://115.anavi.cn
+#  - name: EnderChest（末影箱-云盘）
+#    url: https://enderchest.anavi.cn
   - name: Gravtar代理
     url: https://gravatar.arlxn.top
     
@@ -23,8 +23,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://bucket.lxnchan.cn/Bucket_of_Axolotl_JE1_BE1.webp
   name: 泠泫凝 的服务状态
-  introTitle: "此处展现的服务状态仅供参考。"
-  introMessage: 如有问题请发邮件至admin@arlxn.top
+  introTitle: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。"
+  introMessage: 如有问题请发邮件至admin#arlxn.top
   navbar:
     - title: 服务状态
       href: /
