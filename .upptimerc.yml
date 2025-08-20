@@ -32,9 +32,9 @@ status-website:
   cname: status.lxnchan.cn
   # baseUrl: /your-repo-name
   logoUrl: https://bucket.lxnchan.cn/Bucket_of_Axolotl_JE1_BE1.webp
-  name: 泠泫凝 的服务状态
-  introTitle: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。<br>bilibili、百度和微软的监测用于探测到国内和到海外的标准时延。"
-  introMessage: 如有问题请发邮件至admin#arlxn.top
+  name: LxnChan的公共服务状态
+  introTitle: "公共服务状态"
+  introMessage: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。<br>bilibili、百度和Cloudflare DNS、微软的监测用于探测到国内和到海外的标准时延。<br>如有问题请发邮件至lxn#arlxn.top。"
   navbar:
     - title: 服务状态
       href: /
