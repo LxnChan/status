@@ -7,12 +7,18 @@ sites:
     url: https://www.google.com
   - name: Baidu（百度）
     url: https://www.baidu.com
+  - name: 微软
+    url: https://www.microsoft.com
   - name: 泠泫凝的异次元空间-blog主页
     url: https://lxnchan.cn
 #  - name: 115Wiki
 #    url: https://115.anavi.cn
 #  - name: EnderChest（末影箱-云盘）
 #    url: https://enderchest.anavi.cn
+  - name: 评论服务
+    url: https://comment.lxnchan.cn
+  - name: OSS
+    url: https://bucket.lxnchan.cn
   - name: Gravtar代理
     url: https://gravatar.arlxn.top
     
