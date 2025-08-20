@@ -42,5 +42,95 @@ status-website:
       href: https://lxnchan.cn
   userContentBaseUrl: https://gpsp.arlxn.top/https://raw.githubusercontent.com
 
+i18n: 
+  activeIncidents: 活动中的事件
+  allSystemsOperational: 所有系统运行正常
+  incidentReport: "事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 于 $DATE 开启，共有 $POSTS 条帖子
+  incidentTitle: 事件 $NUMBER 详情
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 进行中
+  incidentOpenedAt: 开始时间
+  incidentClosedAt: 结束时间
+  incidentViewOnGitHub: 在 GitHub 查看并订阅
+  incidentCommentSummary: $AUTHOR 于 $DATE 发布
+  incidentBack: ← 返回所有事件
+  pastIncidents: 历史事件
+  pastIncidentsResolved: 在 $MINUTES 分钟内解决，共有 $POSTS 条帖子
+  liveStatus: 实时状态
+  overallUptime: "总体正常运行时间: $UPTIME"
+  overallUptimeTitle: 总体正常运行时间
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应
+  sevelDayResponseTime: 7 日响应时间
+  responseTimeMs: 响应时间 (毫秒)
+  up: 正常
+  down: 中断
+  degraded: 性能下降
+  ms: 毫秒
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 本页面为 [开源项目]($REPO)，由 [Upptime](https://upptime.js.org) 提供支持
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超出每小时可请求的次数，请稍后再访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用。
+  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+  rateLimitExceededErrorMeaning: 本网站使用 GitHub API 获取实时状态数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 次请求，而您已用完。
+  rateLimitExceededErrorHowCanFix: 我该如何解决？
+  rateLimitExceededErrorFix: 您可以等待一小时后，IP 地址的限制将会恢复。或者，您可以添加 GitHub 个人访问令牌，它可以额外提供每小时 5000 次请求。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您已设置个人访问令牌
+  rateLimitExceededRemoveToken: 移除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 发生错误
+  errorIntro: 获取最新状态详情时发生错误
+  errorText: 您可以稍后再试
+  errorHome: 返回首页
+  pastScheduledMaintenance: 历史计划维护
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 于 $DATE 开始，持续 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 将于 $DATE 开始，持续 $DURATION 分钟
+  startedAt: 开始于
+  startsAt: 开始于
+  duration: 时长
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 已计划
+  duration24H: 24小时
+  duration7D: 7天
+  duration30D: 30天
+  duration1Y: 1年
+  durationAll: 全部
+  locale: zh-CN
+  url: "URL"
+  status: "状态"
+  history: "历史记录"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 正常"
+  degraded: "🟨 性能下降"
+  down: "🟥 中断"
+  responseTimeGraphAlt: "响应时间图表"
+  ms: "毫秒"
+  responseTime: "响应时间"
+  responseTimeDay: "24 小时响应时间"
+  responseTimeWeek: "7 天响应时间"
+  responseTimeMonth: "30 天响应时间"
+  responseTimeYear: "1 年响应时间"
+  uptime: "总体正常运行时间"
+  uptimeDay: "24 小时正常运行时间"
+  uptimeWeek: "7 天正常运行时间"
+  uptimeMonth: "30 天正常运行时间"
+  uptimeYear: "1 年正常运行时间"
+  liveStatus: "实时状态"
+  liveStatusHtmlComment: "<!--实时状态-->"
+  allSystemsOperational: "🟩 所有系统运行正常"
+  degradedPerformance: "🟨 性能下降"
+  completeOutage: "🟥 完全中断"
+  partialOutage: "🟧 部分中断"
+
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
