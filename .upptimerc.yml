@@ -3,19 +3,21 @@ owner: LxnChan # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Baidu（百度）
+#  - name: Google
+#    url: https://www.google.com
+  - name: Baidu - 百度
     url: https://www.baidu.com
-  - name: 微软
+  - name: Microsoft
     url: https://www.microsoft.com
-  - name: 泠泫凝的异次元空间-blog主页
+  - name: bilibili
+    url: https://api.bilibili.com
+  - name: 泠泫凝的异次元空间 - blog主页
     url: https://lxnchan.cn
 #  - name: 115Wiki
 #    url: https://115.anavi.cn
 #  - name: EnderChest（末影箱-云盘）
 #    url: https://enderchest.anavi.cn
-  - name: 评论服务
+  - name: Comment Service - 评论服务
     url: https://comment.lxnchan.cn
   - name: OSS
     url: https://bucket.lxnchan.cn
@@ -29,7 +31,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://bucket.lxnchan.cn/Bucket_of_Axolotl_JE1_BE1.webp
   name: 泠泫凝 的服务状态
-  introTitle: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。"
+  introTitle: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。<br>bilibili、百度和微软的监测用于探测到国内和到海外的标准时延。"
   introMessage: 如有问题请发邮件至admin#arlxn.top
   navbar:
     - title: 服务状态
