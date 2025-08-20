@@ -20,7 +20,7 @@ sites:
   - name: Comment Service - 评论服务
     url: https://comment.lxnchan.cn
   - name: OSS
-    url: https://bucket.lxnchan.cn
+    url: https://bucket.lxnchan.cn/robots.txt
   - name: Gravtar代理
     url: https://gravatar.arlxn.top
     
