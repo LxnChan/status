@@ -11,6 +11,8 @@ sites:
     url: https://www.microsoft.com
   - name: bilibili
     url: https://api.bilibili.com
+  - name: Cloudflare Quad1 DNS
+    url: https://one.one.one.one
   - name: 泠泫凝的异次元空间 - blog主页
     url: https://lxnchan.cn
 #  - name: 115Wiki
