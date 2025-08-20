@@ -40,6 +40,7 @@ status-website:
       href: /
     - title: 回到主站
       href: https://lxnchan.cn
+  userContentBaseUrl: https://gpsp.arlxn.top/https://raw.githubusercontent.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
