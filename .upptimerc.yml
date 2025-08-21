@@ -104,7 +104,31 @@ i18n:
   duration1Y: 1年
   durationAll: 全部
   locale: zh-CN
-
+  url: "网址"
+  status: "状态"
+  history: "历史记录"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  up: "🟩 正常"
+  degraded: "🟨 性能下降"
+  down: "🟥 中断"
+  responseTimeGraphAlt: "响应时间图表"
+  responseTime: "响应时间"
+  responseTimeDay: "24 小时响应时间"
+  responseTimeWeek: "7 天响应时间"
+  responseTimeMonth: "30 天响应时间"
+  responseTimeYear: "1 年响应时间"
+  uptime: "总体正常运行时间"
+  uptimeDay: "24 小时正常运行时间"
+  uptimeWeek: "7 天正常运行时间"
+  uptimeMonth: "30 天正常运行时间"
+  uptimeYear: "1 年正常运行时间"
+  liveStatus: "实时状态"
+  liveStatusHtmlComment: "<!--实时状态-->"
+  allSystemsOperational: "🟩 所有系统运行正常"
+  degradedPerformance: "🟨 性能下降"
+  completeOutage: "🟥 完全中断"
+  partialOutage: "🟧 部分中断"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
