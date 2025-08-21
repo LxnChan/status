@@ -18,7 +18,9 @@ sites:
 #  - name: Google
 #    url: https://www.google.com
   - name: Cloudflare Quad1 DNS
-    url: https://one.one.one.one
+    url: 1.1.1.1
+    check: "tcp-ping"
+    port: 53
 #  - name: V2EX
 #    url: https://www.v2ex.com
   - name: Google Play
