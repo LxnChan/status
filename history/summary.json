@@ -22,36 +22,40 @@
     "url": "https://comment.lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/comment.lxnchan.cn.ico",
     "slug": "comment-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1267,
     "timeDay": 1268,
     "timeWeek": 1267,
     "timeMonth": 1267,
     "timeYear": 1267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 1
+    }
   },
   {
     "name": "OSS",
     "url": "https://bucket.lxnchan.cn/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/bucket.lxnchan.cn.ico",
     "slug": "oss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 691,
     "timeDay": 472,
     "timeWeek": 691,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "Gravtar代理",
