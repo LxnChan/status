@@ -5,14 +5,16 @@ repo: status # The name of this repository
 sites:
 #  - name: Google
 #    url: https://www.google.com
-  - name: Baidu - 百度
-    url: https://www.baidu.com
-  - name: Microsoft
-    url: https://www.microsoft.com
-  - name: bilibili
-    url: https://api.bilibili.com
   - name: Cloudflare Quad1 DNS
     url: https://one.one.one.one
+  - name: V2EX
+    url: https://www.v2ex.com
+  - name: Google Play
+    url: https://play.google.com
+  - name: Baidu - 百度
+    url: https://www.baidu.com
+  - name: bilibili
+    url: https://api.bilibili.com
   - name: 泠泫凝的异次元空间 - blog主页
     url: https://lxnchan.cn
 #  - name: 115Wiki
@@ -34,7 +36,7 @@ status-website:
   logoUrl: https://bucket.lxnchan.cn/Bucket_of_Axolotl_JE1_BE1.webp
   name: LxnChan
   introTitle: "公共服务状态"
-  introMessage: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。<br>bilibili、百度和Cloudflare DNS、微软的监测用于探测到国内和到海外的标准时延。<br>如有问题请发邮件至lxn#arlxn.top。"
+  introMessage: "此处展现的服务状态仅供参考，采样点位于海外，因此数据可能并不准确。<br>Cloudflare DNS、V2EX和百度、bilibili作为标准监测点用于监测采样点到海外和国内的时延。<br>如有问题请发邮件至lxn#arlxn.top。"
   navbar:
     - title: 服务状态
       href: /
