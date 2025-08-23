@@ -98,19 +98,19 @@
     "url": "https://play.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/play.google.com.ico",
     "slug": "google-play",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 387,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 380,
+    "timeDay": 370,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2025-08-23": 0
+      "2025-08-23": 7
     }
   },
   {
