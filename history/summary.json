@@ -86,19 +86,19 @@
     "url": "https://gravatar.arlxn.top",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 440,
-    "timeWeek": 310,
-    "timeMonth": 301,
-    "timeYear": 258,
+    "timeDay": 402,
+    "timeWeek": 312,
+    "timeMonth": 302,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 7
     }
   },
   {
