@@ -106,18 +106,20 @@
     "url": "https://gravatar.arlxn.top",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 317,
-    "timeWeek": 310,
-    "timeMonth": 304,
+    "timeDay": 277,
+    "timeWeek": 301,
+    "timeMonth": 302,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Cloudflare Quad1 DNS",
