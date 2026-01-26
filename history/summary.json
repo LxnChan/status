@@ -161,9 +161,9 @@
     "url": "https://gravatar.arlxn.top",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -173,6 +173,7 @@
     "timeMonth": 297,
     "timeYear": 274,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2025-11-18": 163
     }
   },
