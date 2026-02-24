@@ -26,12 +26,12 @@
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.26%",
     "time": 1217,
     "timeDay": 1205,
     "timeWeek": 1096,
-    "timeMonth": 1222,
+    "timeMonth": 1226,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2026-02-13": 97,
@@ -102,12 +102,12 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.28%",
     "time": 1066,
     "timeDay": 891,
     "timeWeek": 841,
-    "timeMonth": 1045,
+    "timeMonth": 1002,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2026-02-13": 97,
@@ -230,9 +230,9 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,7 +241,9 @@
     "timeWeek": 2480,
     "timeMonth": 2506,
     "timeYear": 2451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-24": 0
+    }
   },
   {
     "name": "bilibili",
