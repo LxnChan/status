@@ -103,11 +103,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bucket.lxnchan.cn.ico",
     "slug": "oss",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "96.05%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 1082,
     "timeDay": 1240,
     "timeWeek": 1139,
@@ -181,9 +181,9 @@
     "url": "https://gravatar.arlxn.top",
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.arlxn.top.ico",
     "slug": "gravtar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -193,6 +193,7 @@
     "timeMonth": 206,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-01-26": 26,
       "2025-11-18": 163
     }
