@@ -22,11 +22,11 @@
     "url": "https://comment.lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/comment.lxnchan.cn.ico",
     "slug": "comment-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.23%",
     "time": 1218,
     "timeDay": 1486,
@@ -99,7 +99,8 @@
       "2026-05-12": 205,
       "2026-05-14": 233,
       "2026-05-23": 130,
-      "2026-05-26": 332
+      "2026-05-26": 332,
+      "2026-05-31": 5
     }
   },
   {
@@ -107,9 +108,9 @@
     "url": "https://bucket.lxnchan.cn/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/bucket.lxnchan.cn.ico",
     "slug": "oss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.31%",
@@ -183,7 +184,8 @@
       "2026-04-29": 109,
       "2026-05-12": 200,
       "2026-05-14": 228,
-      "2026-05-23": 129
+      "2026-05-23": 129,
+      "2026-05-31": 0
     }
   },
   {
