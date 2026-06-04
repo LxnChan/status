@@ -22,16 +22,16 @@
     "url": "https://comment.lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/comment.lxnchan.cn.ico",
     "slug": "comment-service",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "99.23%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "99.18%",
     "time": 1227,
-    "timeDay": 1154,
-    "timeWeek": 1670,
-    "timeMonth": 1369,
+    "timeDay": 1282,
+    "timeWeek": 1641,
+    "timeMonth": 1370,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2025-08-21": 17,
@@ -101,7 +101,7 @@
       "2026-05-23": 130,
       "2026-05-26": 332,
       "2026-05-31": 52,
-      "2026-06-04": 0
+      "2026-06-04": 227
     }
   },
   {
