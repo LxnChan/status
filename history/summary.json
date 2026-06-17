@@ -22,17 +22,17 @@
     "url": "https://comment.lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/comment.lxnchan.cn.ico",
     "slug": "comment-service",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "99.12%",
-    "time": 1245,
-    "timeDay": 2910,
-    "timeWeek": 2041,
-    "timeMonth": 1633,
-    "timeYear": 1245,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "99.10%",
+    "time": 1248,
+    "timeDay": 2750,
+    "timeWeek": 2102,
+    "timeMonth": 1658,
+    "timeYear": 1248,
     "dailyMinutesDown": {
       "2025-08-21": 17,
       "2025-08-27": 41,
@@ -105,7 +105,7 @@
       "2026-06-07": 205,
       "2026-06-09": 104,
       "2026-06-12": 96,
-      "2026-06-17": 0
+      "2026-06-17": 94
     }
   },
   {
@@ -113,17 +113,17 @@
     "url": "https://bucket.lxnchan.cn/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/bucket.lxnchan.cn.ico",
     "slug": "oss",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.29%",
-    "time": 1062,
-    "timeDay": 761,
-    "timeWeek": 807,
-    "timeMonth": 974,
-    "timeYear": 1062,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.27%",
+    "time": 1060,
+    "timeDay": 540,
+    "timeWeek": 746,
+    "timeMonth": 956,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-08-21": 16,
       "2025-08-27": 41,
@@ -192,7 +192,7 @@
       "2026-05-23": 129,
       "2026-05-31": 47,
       "2026-06-07": 205,
-      "2026-06-17": 0
+      "2026-06-17": 94
     }
   },
   {
@@ -268,7 +268,7 @@
     "timeDay": 2616,
     "timeWeek": 2476,
     "timeMonth": 2296,
-    "timeYear": 2448,
+    "timeYear": 2447,
     "dailyMinutesDown": {
       "2026-02-24": 77
     }
