@@ -22,16 +22,16 @@
     "url": "https://comment.lxnchan.cn",
     "icon": "https://icons.duckduckgo.com/ip3/comment.lxnchan.cn.ico",
     "slug": "comment-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.24%",
     "time": 1221,
-    "timeDay": 946,
-    "timeWeek": 954,
-    "timeMonth": 916,
+    "timeDay": 871,
+    "timeWeek": 935,
+    "timeMonth": 912,
     "timeYear": 1221,
     "dailyMinutesDown": {
       "2025-08-27": 41,
@@ -108,7 +108,7 @@
       "2026-07-03": 21,
       "2026-07-15": 54,
       "2026-08-10": 25,
-      "2026-08-23": 5
+      "2026-08-23": 13
     }
   },
   {
@@ -116,17 +116,17 @@
     "url": "https://bucket.lxnchan.cn/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/bucket.lxnchan.cn.ico",
     "slug": "oss",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.38%",
-    "time": 1064,
-    "timeDay": 683,
-    "timeWeek": 1202,
-    "timeMonth": 1353,
-    "timeYear": 1081,
+    "time": 1068,
+    "timeDay": 1902,
+    "timeWeek": 1442,
+    "timeMonth": 1406,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-08-27": 41,
       "2025-09-01": 15,
@@ -198,7 +198,7 @@
       "2026-07-03": 16,
       "2026-07-15": 49,
       "2026-08-10": 21,
-      "2026-08-23": 0
+      "2026-08-23": 8
     }
   },
   {
